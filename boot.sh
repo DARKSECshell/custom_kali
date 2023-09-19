@@ -4,6 +4,8 @@
 
 # make diretory for install all tools, more configs
 mkdir red_loader
+mv red_loader.plymouth auxiliary
+mv red_loader.script auxiliary
 mv auxiliary/red_loader.plymouth red_loader
 mv auxiliary/red_loader.script red_loader
 cd red_loader && cp * ../auxiliary
