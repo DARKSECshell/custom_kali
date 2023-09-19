@@ -11,6 +11,7 @@ cd ..
 sleep 2
 mkdir wallpaper
 mkdir backup
+
 # INTERACTIVE WITH USER
 echo "|==+RUNNING WITH ROOT+==|"
 echo "ENGLISH   |*-- HELLO GUYS, THIS TOOL IS FOR HELP YOU WITH A CHANGED IN BOOT ANIMATION AND THE WALLPAPER GRUB--|*"
