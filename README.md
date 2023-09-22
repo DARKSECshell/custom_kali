@@ -39,7 +39,7 @@ Welcome to the Custom Boot Animation and GRUB Wallpaper Changer! This tool allow
 
 ## Usage
 1. Clone this repository to your Linux system.
-2. Run the script with root privileges: `sudo ./custom-boot-grub.sh`.
+2. Run the script with root privileges: `sudo ./boot.sh`.
 3. Follow the on-screen instructions to customize your boot animation and GRUB wallpaper.
 
 Thank you for using this tool to make your Linux experience more personal! Enjoy your customized boot animation and GRUB wallpaper.
